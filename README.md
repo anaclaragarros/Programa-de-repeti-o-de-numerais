@@ -1,2 +1,2 @@
-# Programa-de-repeti-o-de-numerais
-Programa feito em DART de repetição de numerais, com entrada no console e resposta do programa
+# Programa de repetição de numerais
+Programa feito em DART de repetição de numerais, com entrada no console e resposta da entrada do console. Utilizando a musica dos 5 patinhos
